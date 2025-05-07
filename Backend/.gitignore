@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python pickle files
+*.pkl
+
+# Node.js dependencies
+node_modules/
+
+# Lock files
+package-lock.json
+
+# Environment / deployment
+.env
+*.env
+*.pyenv
+
+# VSCode settings (optional)
+.vscode/
+
+# Profiler
+*.prof
+
+# Other temp files
+*.bak
+*.tmp
+
+# PyInstaller
+*.spec
